@@ -1,6 +1,3 @@
 python-telegram-bot
 TikTokLive
 opencv-python-headless
-ultralytics
-transformers
-torch
