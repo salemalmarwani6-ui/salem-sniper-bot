@@ -1,1 +1,6 @@
-python-telegram-bot[webhooks]
+python-telegram-bot
+TikTokLive
+opencv-python-headless
+ultralytics
+transformers
+torch
