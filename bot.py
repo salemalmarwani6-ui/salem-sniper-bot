@@ -98,7 +98,7 @@ def main():
         listen="0.0.0.0",
         port=PORT,
         url_path="telegram",
-        webhook_url=f"{WEBHOOK_URL}/telegram,
+        webhook_url=f"{WEBHOOK_URL}/telegram",
         drop_pending_updates=True
     )
 
